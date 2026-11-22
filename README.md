@@ -1,6 +1,7 @@
 # [Bounce Ball]
 
-![Uploading Screenshot 2026-11-22 at 1.06.51 AM.png…]()
+<img width="1786" height="1050" alt="Screenshot 2026-11-22 at 12 25 12 PM" src="https://github.com/user-attachments/assets/4d357f08-6e56-477e-b4fd-3968c090f8dc" />
+
 
 play it here - https://yuvraajverma-web.itch.io/bounce-ball
 
